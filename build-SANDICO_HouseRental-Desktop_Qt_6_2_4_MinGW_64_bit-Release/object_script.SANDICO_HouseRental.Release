@@ -1,0 +1,12 @@
+release/adesignsdialog.o
+release/apaymentsdialog.o
+release/asummarydialog.o
+release/main.o
+release/mainwindow.o
+release/occupantsdialog.o
+release/qrc_resource.o
+release/moc_adesignsdialog.o
+release/moc_apaymentsdialog.o
+release/moc_asummarydialog.o
+release/moc_mainwindow.o
+release/moc_occupantsdialog.o

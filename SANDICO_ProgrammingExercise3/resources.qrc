@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/myself">
+        <file>images/baby.png</file>
+        <file>images/fiveyearsold.png</file>
+        <file>images/tenyearsold.png</file>
+        <file>images/fifteenyo.jpg</file>
+        <file>images/nineteenyo.png</file>
+    </qresource>
+    <qresource prefix="/friends">
+        <file>images/childhood.png</file>
+        <file>images/elemfriends.jpg</file>
+        <file>images/jhsfriends.jpg</file>
+        <file>images/shsfriends.jpeg</file>
+        <file>images/mainfriends.jpg</file>
+    </qresource>
+    <qresource prefix="/family">
+        <file>images/famfriends.jpg</file>
+        <file>images/balrel.png</file>
+        <file>images/cousins.jpg</file>
+        <file>images/relsan.png</file>
+        <file>images/sandicofam.jpg</file>
+    </qresource>
+</RCC>
